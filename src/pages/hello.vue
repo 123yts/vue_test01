@@ -1,8 +1,6 @@
 <template>
   <div>
     <span>我是hello</span>
-    <span>woshi123</span>
-    <div>nice</div>
         <ul>
             <li>
                 <router-link active-class="active" to="/hello/news">News</router-link>
